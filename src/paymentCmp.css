@@ -1,0 +1,19 @@
+.payment-cmp .form-pay-btn {
+  background-color: #1dbd3a;
+  border: none;
+  color: #fff;
+  padding: 10px 10px;
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 3px;
+}
+.payment-cmp .text {
+  font-weight: 500;
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 990px) {
+  .payment-cmp .form-pay-btn {
+    width: 100%;
+  }
+}
